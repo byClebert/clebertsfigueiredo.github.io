@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.8d954a5c.chunk.js",
+    "main.js.map": "/static/js/main.8d954a5c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0dc97fc6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0dc97fc6.js.map",
+    "static/js/2.effbf674.chunk.js": "/static/js/2.effbf674.chunk.js",
+    "static/js/2.effbf674.chunk.js.map": "/static/js/2.effbf674.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0630dc0e185dfb294dcc15ac8ed98445.js": "/precache-manifest.0630dc0e185dfb294dcc15ac8ed98445.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.effbf674.chunk.js.LICENSE.txt": "/static/js/2.effbf674.chunk.js.LICENSE.txt",
+    "static/media/bg-dev-min.jpg": "/static/media/bg-dev-min.992b5b1d.jpg",
+    "static/media/clebert-figueiredo.jpg": "/static/media/clebert-figueiredo.a69c8c85.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dc97fc6.js",
+    "static/js/2.effbf674.chunk.js",
+    "static/js/main.8d954a5c.chunk.js"
+  ]
+}
